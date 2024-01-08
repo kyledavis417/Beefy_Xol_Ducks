@@ -1,2 +1,2 @@
-# Beefy_xol_Ducks
+# Beefy_Xol_Ducks
  Xol ducks that are made stronger 
